@@ -1,7 +1,0 @@
-echo "# TP_Integrador_Olaso" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AndersonSanchezET32/TP_Integrador_Olaso.git
-git push -u origin main
