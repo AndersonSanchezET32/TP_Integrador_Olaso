@@ -1,0 +1,46 @@
+Altura del techo: 
+2.8m
+
+AREA DE SISTEMAS (10x10)
+
+1,2m+4,50m+1,8m+1,50m+2,30m+4,50m+2m+1,50m+2,30m 
+0,5+2m(recorrido hasta el mini rack en Diseño)
+
+SUB TOTAL: 24,10m
+
+DISEÑO (30x10)
+
+2,212m+21,80m+2m+0,30m+1,15m+0,30m+1,15m+0,30m+2,93m+0,30m+2,02m+0,30m+2,02m+0,30m+2,02m+0,30m+2,02m+0,30m+2,02m+0,30m+2,02m+0,30m+3,57+0,30m+2,02m+0,30m+2,02m+0,30m+2,02m+0,30m+2,02m+0,30m+2,02m+0,30m+2,02m+0,30m
+2m+6,85m (recorrido desde la impresora más a la izquierda en el plano hasta el mini rack de vigilancia)
+
+SUB TOTAL: 73,00m
+
+VIGILANCIA (5x5)
+
+1,4m+0,26m+0,25m+2,06m+0,46+1,26+1,26+1,26+1,260,26m+0,25m+2,06m+0,46+1,26+1,26+1,26+1,26
+8,68m+30,96m+49,93+11,20 (distancia hasta siguiente mini rack, ubicado en logistica)
+
+SUB TOTAL: 118,31m
+
+LOGÍSTICA (50x40)
+
+5,62m+1.4m+1m+0,61m+3,6m+0,61m+3,28m+0,61m+3,3m+0,61m+4,02m+1m+0,61m+3,6m+0,61m+3,28m+0,61m+3,3m+0,61m+4,05m+1m+0,61m+3,6m+0,61m+3,28m+0,61m+3,3m+0,61m+3,98m+1m+0,61m+3,6m+0,61m+3,28m+0,61m+3,3m+0,61m
+2m+10,80m+17,294+2,10m (recorrido desde logística hasta el mini rack en tesorería
+
+SUB TOTAL: 105,74m
+
+TESORERÍA (7x5)
+1.4m+2,25m+1,35m+0,20m+0,68m+2,74m+0,20m+0,54m+2,76m+2,25m+1,35m+0,20m+0,68m+2,74m+0,20m+0,54m+2,76m+1,63m+0,30+0,56m+0,54m+0,57m
+2,15m+5m(recorrido desde el mini rack de tesorería hasta el mini rack de Recursos Humanos)
+
+SUB TOTAL: 33,59m
+
+RECURSOS HUMANOS (10x20)
+1.4m+0,10m+0,50m+4,35m+0,40m+1,90m+1,90m+1,90m+1,90m+1,90m+1,90m+1,90m+1,90m+1,90m+4,35+1m+2,05m+2,05m+2,05m+2,05m+2,05m+2,05m+2,05m
+
+SUB TOTAL: 43,55m
+
+SUMA TOTAL: 398.30m
+
+
+
